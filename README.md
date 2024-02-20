@@ -22,4 +22,8 @@
   npm run dev
 ```
 
+## Muokkus
+
+Muista muokata kansion nimi sekä index.html title
+
 
