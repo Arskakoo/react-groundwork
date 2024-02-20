@@ -1,4 +1,4 @@
-# react-groundwork
+# React-groundwork
 
 ## Asentaminen
 #### Lataa groundwork kansio
