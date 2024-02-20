@@ -1,8 +1,9 @@
 # react-groundwork
 
 ## Asentaminen
-#### Kopioi alikansio groundwork
+#### Lataa groundwork kansio
 
+#### suorita komento
 ```bash
   cd groundwork
 ``````
